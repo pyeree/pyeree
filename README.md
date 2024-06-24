@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=150&section=header&text=Pyeree's%20GitHub&fontColor=FFFFFF&fontSize=30&animation=fadeIn" />
 
-<div align="center">
-  <img src="https://img.icons8.com/color/96/000000/charmander.png" alt="Charmander" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="150" height="150"/>
+</p>
   <h1>Welcome to Pyeree's GitHub! 🔥</h1>
   <p>Hello! I am studying at Dongguk University and actively participating in the LikeLion.</p>
 </div>
