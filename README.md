@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/charmander.png" alt="Charmander" />
   <h1>Welcome to Pyeree's GitHub! 🔥</h1>
-  <p>Hello! I am studying at Dongguk University and actively participating in the LikeLion club.</p>
+  <p>Hello! I am studying at Dongguk University and actively participating in the LikeLion.</p>
 </div>
 
 | <a href="https://github.com/pyeree/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pyeree&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pyeree's github stats" /></a> | <a href="https://github.com/pyeree/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyeree&layout=compact&theme=buefy&hide_border=true" /></a> |
