@@ -1,7 +1,22 @@
-## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=150&section=header&text=Pyeree's%20GitHub&fontColor=FFFFFF&fontSize=30&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/charmander.png" alt="Charmander" />
+  <h1>Welcome to Pyeree's GitHub! 🔥</h1>
+  <p>Hello! I am studying at Dongguk University and actively participating in the LikeLion club.</p>
+</div>
+
+| <a href="https://github.com/pyeree/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pyeree&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pyeree's github stats" /></a> | <a href="https://github.com/pyeree/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyeree&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/Django-REST_Framework-green?style=flat-square&logo=django&logoColor=white"/>
+
+- 🔭 I’m currently working on:
+  <img src="https://img.shields.io/badge/Dongguk_University-003399?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LikeLion-FF4500?style=flat-square&logo=liondesk&logoColor=white"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=150&section=footer" />
+
+
 <!--
 **pyeree/pyeree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
