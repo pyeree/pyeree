@@ -5,10 +5,11 @@
 </p>
 <br>
 <h3>🧑🏻‍💻 Organizations </h3>
+
 <b>
-  
-    - Like-Lion at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : 백엔드 과정 (3/2024 ~ ) 
+- Like-Lion at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : 백엔드 과정 (3/2024 ~ ) 
 </b>
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
