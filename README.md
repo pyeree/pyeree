@@ -6,7 +6,7 @@
 <div>
 <a href="https://www.instagram.com/ooh._.99/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto: dlagusdn0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.dongguk.edu/main"><img src="https://img.shields.io/badge/-DGU-orange"/></a>
+<a href="https://www.dongguk.edu/main"><img src="https://img.shields.io/badge/-DGU.univ-orange"/></a>
 </div>
 
 <p>
