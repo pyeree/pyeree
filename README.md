@@ -6,9 +6,11 @@
 <div>
 <a href="https://www.instagram.com/ooh._.99/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto: dlagusdn0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.dongguk.edu/main"><img src="https://img.shields.io/badge/-DGU-orange"/></a>
 </div>
 
 <p>
+
 I am majoring in Information and Communication Engineering  at Dongguk University, focusing on becoming a Back-end Developer. <br/>
 </p>
 
@@ -33,17 +35,17 @@ I am majoring in Information and Communication Engineering  at Dongguk Universit
 
 |                        Title                        |   Stack    |     Duration      |                            Organization                            |                                                                                         More                                                                                         |
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 동국대학교에서의 추억을 위한, **콩닥콩닥** | Python | 2024.05 ~ 2024.06 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> |                                       [Github](https://github.com/onlynyang/2024-simba-4-Kongdak) (서버종료)                                        |
+| 동국대학교에서의 추억을 위한, **콩닥콩닥** | Python | 2024.05 ~ 2024.06 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> |                                       [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)                                         |
 |  스타와 함께하는 갓생의 시작, **STAR.T**  |   Python    | 2024.07 ~ 2024.08 |    <img src="https://img.shields.io/badge/-LikeLion-orange"/>    | [Github](https://github.com/onlynyang/2024-Hackathon-4-STAR.T-Bakcend) [Website](https://api.likelion-start.site/)(서버종료) |
-`|      _In Planning_      |   Python    | -|    <img src="https://img.shields.io/badge/-Individual-pink"/>    |   🚧   |`
+<!--|      _In Planning_      |   Python    | -|    <img src="https://img.shields.io/badge/-Individual-pink"/>    |   🚧   |-->
 
 <br>
 
-## 🌱 Experiences
+## 🌱 Organization
 
 <a href="https://github.com/LikeLion-at-DGU"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 동국대학교 멋쟁이사자처럼, 12th member of Development Club : Back-end curriculum `[2024.03 ~ ing]`
 
-<a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-BAF-blue"/></a> 동국대학교 통계학과 빅데이터학회, 15th member of a Data Analysis Association `[2024.06 ~ ing]`
+
 
 <br>
 
@@ -51,7 +53,7 @@ I am majoring in Information and Communication Engineering  at Dongguk Universit
 <details>
 <summary>🥉 2024 SW교육원 & 동국대학교 멋쟁이사자처럼 주최 해커톤 3등 </summary> 
   
-   `[2024.06]` [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)
+   `[2024.06]` [Github](https://github.com/pyeree/2024-simba-4-Kongdak)
 </details>
 
 <br>
@@ -60,13 +62,13 @@ I am majoring in Information and Communication Engineering  at Dongguk Universit
 <div align='center'>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlynyang&layout=donut&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyeree&layout=donut&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlynyang&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pyeree&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true" width="56%" />
 </a>
 <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=onlynyang&theme=default&bg_color=ffffff&hide_border=true&line=C6538C&color=DA5B0B" width="94%"/>-->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pyeree&theme=default&bg_color=ffffff&hide_border=true&line=C6538C&color=DA5B0B" width="94%"/>-->
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
