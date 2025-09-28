@@ -45,8 +45,9 @@ I am majoring in Information and Communication Engineering  at Dongguk Universit
 
 ## 🌱 Organization
 
-<a href="https://github.com/LikeLion-at-DGU"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 동국대학교 멋쟁이사자처럼, 12th member of Development Club : Back-end curriculum `[2024.03 ~ ing]`
-
+<a href="https://github.com/LikeLion-at-DGU"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 동국대학교 멋쟁이사자처럼, 12th member of Development Club : Back-end curriculum `[2024.03 ~ 2024.11]` <br>
+<a href="https://github.com/LikeLion-at-DGU"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 동국대학교 멋쟁이사자처럼, 13th Vice President of Development Club : Back-end Education Team `[2025.03 ~ ing]`<br>
+<a href="(https://github.com/D-Order)"> <img src="https://img.shields.io/badge/-D--order-pink"/></a> 축제 주문의 혁신, D-order  : Back-end Developer of Team  `[2025.03 ~ ing]`
 
 
 <br>
