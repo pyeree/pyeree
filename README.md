@@ -21,9 +21,11 @@ I am majoring in Information and Communication Engineering  at Dongguk Universit
 <div>
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> 
+
+
   
 </div>
 
@@ -50,16 +52,7 @@ I am majoring in Information and Communication Engineering  at Dongguk Universit
 <a href="(https://github.com/D-Order)"> <img src="https://img.shields.io/badge/-D--order-pink"/></a> 축제 주문의 혁신, D-order  : Back-end Developer of Team  `[2025.03 ~ ing]`
 
 
-<br>
 
-## 🏆 Award
-<details>
-<summary>🥉 2024 SW교육원 & 동국대학교 멋쟁이사자처럼 주최 해커톤 3등 </summary> 
-  
-   `[2024.06]` [Github](https://github.com/pyeree/2024-simba-4-Kongdak)
-</details>
-
-<br>
 
 ## 🫧 Studying..
 <div align='center'>
